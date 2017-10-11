@@ -25,7 +25,8 @@
 
 <hr>
 
-
+<h3>Links and Images</h3>
+<p>First I'm going to link to <a href="https://www.google.com/intl/en/chrome/browser/welcome.html"> my website</a> </p>
 
 
 
