@@ -1,4 +1,9 @@
 <h1>Welcome to my Crib</h1>
+<ul class="breadcrumb">
+  <li><a href="https://luciapusateri.github.io/test/index.html">Home</a></li>
+ 
+</ul>
+
 <h2>Section 1: What you can learn here</h2>
 <p> This is the first paragraph. It isnt very interesting at the moment </p>
 
@@ -29,6 +34,7 @@
 <p>First I'm going to link to <a href="https://www.google.com/intl/en/chrome/browser/welcome.html"> my website</a> </p>
 
 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg" />
 
 <table>
@@ -47,10 +53,6 @@
 </table>
 
 
-<ul class="breadcrumb">
-  <li><a href="https://luciapusateri.github.io/test/index.html">Home</a></li>
- 
-</ul>
 
 ### Jekyll Themes
 
