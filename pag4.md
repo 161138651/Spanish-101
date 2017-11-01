@@ -8,5 +8,5 @@
 <h1> Malachi is so talented</h1>
 
 <p>
-<img src="waterpenguin.jpeg" />
+<img src="img/waterpenguin.jpeg" />
 </p>
