@@ -2,28 +2,30 @@
   <li><a href="https://luciapusateri.github.io/test/index.html">Home</a></li>
 </ul>
 
-<h1>Welcome to my Crib</h1>
+<h1>Learning Spanish 101</h1>
 
 
 
-<h2>Section 1: What you can learn here</h2>
-<p> This is the first paragraph. It isnt very interesting at the moment </p>
+<h2>Purpose of the Website</h2>
+<p> This website is an easy language learning website for Spanish. It is intented for young adults with no previous knowlegde of Spanish. The essay will start from a very basic level of grammar to get to creating sentences with verbs and nouns. Below there is a list of all the pages and what they contain. </p>
 
 
 <hr>
-<h2>Some HTML Formatting Stuff</h2>
-<h3>Lists</h3>
-<h4>Ordered Lists have numbers</h4>
+<h2>Website Content</h2>
 <ol>
-  <li>Item 1</li>
-  <li>Item 2</li>
+  <li>Grammar</li>
+  <p> This is an introduction of basic Spanish grammar. There is a Powerpoint and two exercises to complete!</p>
+  <li>Vocabulary</li>
+  <p> This page teaches you new vocabulary such as colors, animals, and food. The videos will help you pronunciate the words currectly </p> 
+  <li>Building Sentences</li>
+  <p>This page helps you structure sentences using the grammar and vocabulary learned. THere will alos be a couple of basic sentences to learn</p>
+  <li> Exercises</li>
+  <p>This page has lots of different types of exercises to practice the material learned.</p>
+  <li> Resources</li>
+  <p>This page contains a lot of helpful resources such as videos, extra material, and links to different websites or apps.</p>
+    
 </ol>
 
-<h4>Unordered Lists have numbers</h4>
-<ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-</ul>
 
 <hr>
 
