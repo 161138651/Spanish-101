@@ -1,10 +1,10 @@
   
   <ul class="breadcrumb">
-  <li><a href="https://luciapusateri.github.io/test/index.html">Home</a></li>
-  <li><a href="pag2.html">Page 2</a></li>
-  <li><a href="pag3.html">Page 3</a></li>
-  <li><a href="pag4.html">Page 4</a></li>
-  <li>Page 5</li>
+  <li><a href="https://161138651.github.io/Spanish-101/index.html">Home</a></li>
+  <li><a href="pag2.html">Grammar</a></li>
+  <li><a href="pag3.html">Vocabulary</a></li>
+  <li><a href="pag4.html">Building Sentences</a></li>
+  <li>Resources</li>
   
   <h2> Here is a video to teach you about pets</h2>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nhWNp1FlPlg" frameborder="0" gesture="media" allowfullscreen></iframe>
