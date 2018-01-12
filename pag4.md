@@ -5,8 +5,7 @@
   <li>Building Sentences</li>
 </ul>
 
-<h1> Malachi is so talented</h1>
+<h1> Building Sentences</h1>
+<p> This section will focus on some of the basic sentences a learner needs to start understanding and engaging in the new language.</p>
 
-<p>
-<img src="img/waterpenguin.jpg" style="width:75%;" />
-</p>
+
