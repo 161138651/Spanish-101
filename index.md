@@ -17,7 +17,7 @@
   <p> This is an introduction of basic Spanish grammar. There is a Powerpoint and two exercises to complete!</p>
   <li>Vocabulary</li>
   <p> This page teaches you new vocabulary such as colors, animals, and food. The videos will help you pronunciate the words currectly </p> 
-  <li>Building Sentences</li>
+  <li>Useful Sentences</li>
   <p>This page helps you structure sentences using the grammar and vocabulary learned. THere will alos be a couple of basic sentences to learn</p>
   <li> Exercises</li>
   <p>This page has lots of different types of exercises to practice the material learned.</p>
