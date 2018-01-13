@@ -5,6 +5,7 @@
   <li><a href="pag4.html">Useful Sentences</a></li>
   <li><a href="pag5.html">Exercises</a></li>
   <li>Extra Resources</li>
+  </ul>
   
   <h1>Extra Resources</h1>
   <p> Spanish is spoken in 21 different countries around the world, it is one of the most widely spoken languages. More than 480 million people world wide. Spanish is also one of the most commonly learned second languages after Enlgish.</p>
