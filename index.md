@@ -26,17 +26,11 @@
     
 </ol>
 
-
-<hr>
-
-<h3>Text Styles</h3>
-<p>In this paragraph I am going to <u>underline this</u>, and then this is <strong> very important</strong>, and this is <em>italicized for effect</em>. For example, <em> Oh No!</em> he cried.</p>
-
 <hr>
 
 
 
-<h3> Here is a penguin for good luck</h3>
+<h3> Here are some penguins for good luck</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"/>
 
 
