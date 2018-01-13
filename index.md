@@ -34,27 +34,12 @@
 
 <hr>
 
-<h3>Links and Images</h3>
-<p>First I'm going to link to <a href="https://www.google.com/intl/en/chrome/browser/welcome.html"> my website</a> </p>
 
 
+<h3> Here is a penguin for good luck</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg" />
 
-<table>
-  <tr>
-    <th>English Word</th>
-    <th>French Word</th>
-    <th>German Word</th>
-  </tr>
-  <tr>
-    <td>table</td>
-    <td>table</td>
-    <td>tisch</td>
-  </tr>
-
- 
-</table>
 
 
 
