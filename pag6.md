@@ -9,7 +9,7 @@
   
   <h1>Extra Resources</h1>
  
- <h2> Good websites to use</h2>
+ <h2> Good websites to continue learninf Spanish</h2>
  <ul>
   <li><a href="https://www.duolingo.com/">Duolingo</a></li>
   <li><a href="https://lp.babbel.com/d/ENG_index.html?l1=ENG&l2=SPA">Babbel</a></li>
