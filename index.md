@@ -8,6 +8,7 @@
 
 <h2>Purpose of the Website</h2>
 <p> This website is an easy language learning website for Spanish. It is intented for young adults with no previous knowlegde of Spanish. The website will start from a very basic level of grammar to get to creating sentences with verbs and nouns. Below there is a list of all the pages and what they contain. </p>
+<p> Spanish is spoken in 21 different countries around the world, it is one of the most widely spoken languages. More than 480 million people world wide. Spanish is also one of the most commonly learned second languages after Enlgish.</p>
 
 
 <hr>
