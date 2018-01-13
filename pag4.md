@@ -9,5 +9,5 @@
 <p> This section will focus on some of the basic sentences a learner needs to start understanding and engaging in the new language.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E62M5SO-QgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<p> This video only has a couple of phrases to learn but the image after has a couple more</p>
+<p> This video only has a couple of phrases to learn but this image has a couple more</p>
 <img src="http://amble.com/ambler/wp-content/uploads/2012/10/BasicSpanishforBlogJPEG.jpg" />
