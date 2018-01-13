@@ -7,7 +7,7 @@
 
 
 <h2>Purpose of the Website</h2>
-<p> This website is an easy language learning website for Spanish. It is intented for young adults with no previous knowlegde of Spanish. The essay will start from a very basic level of grammar to get to creating sentences with verbs and nouns. Below there is a list of all the pages and what they contain. </p>
+<p> This website is an easy language learning website for Spanish. It is intented for young adults with no previous knowlegde of Spanish. The website will start from a very basic level of grammar to get to creating sentences with verbs and nouns. Below there is a list of all the pages and what they contain. </p>
 
 
 <hr>
