@@ -13,7 +13,7 @@
  <ul>
   <li><a href="https://www.duolingo.com/">Duolingo</a></li>
   <li><a href="https://lp.babbel.com/d/ENG_index.html?l1=ENG&l2=SPA">Babbel</a></li>
-  <li><a href="http://www.rosettastone.co.uk/"> Rosetta Stone</a><li>
-  <li><a href="https://www.busuu.com/"> Busuu</a><li>
+  <li><a href="http://www.rosettastone.co.uk/"> Rosetta Stone</a></li>
+  <li><a href="https://www.busuu.com/"> Busuu</a></li>
   </ul>
   <p> Some of these websites have accompaigning apps so learning can be done on the go. ALso of the websites, like Duolingo, are free while others have fees. All of the websites or apps use a lot of different types of multimedia to help learn a new language.</p>
